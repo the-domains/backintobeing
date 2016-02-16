@@ -1,0 +1,28 @@
+name: Back Into Being
+favicon: null
+layout_spectrum: 0.23721857788041234
+typography_spectrum: 0.633941400796175
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8030927076470107
+  lightness: 0.9549259894993156
+  saturation: 0.578252004692331
+  rhythmicContrast: 0.5749669505748898
+purpose: []
